@@ -1,0 +1,10 @@
+# Links
+
+* https://p5js.org
+* http://keycode.info
+* https://www.color-hex.com
+* https://htmlcolorcodes.com
+* https://www.pantone.com/color-finder
+* https://gist.github.com/vonWolfehaus/5023015
+* https://www.youtube.com/watch?v=IIrC5Qcb2G4
+* https://github.com/processing/p5.js/wiki/Optimizing-p5.js-Code-for-Performance
